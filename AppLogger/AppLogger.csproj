@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Lalraen AppLogger</Title>
+        <Authors>Minenko V.</Authors>
+        <RepositoryUrl>https://github.com/LalraenOd/AppLogger.git</RepositoryUrl>
+        <RepositoryType>Git</RepositoryType>
+    </PropertyGroup>
+
+</Project>
